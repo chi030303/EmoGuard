@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">nav_Test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_button_text">登录\u00A0  \u00A0\u00A0\u00A0   →</string>
+    <string name="register_text1">\u00A0 姓名：</string>
+    <string name="register_text2">请输入以下信息</string>
+    <string name="register_text3">注册页面</string>
+    <string name="register_text4">\u00A0 确认密码：</string>
+    <string name="register_text5">\u00A0 密码：</string>
+    <string name="register_text6">\u00A0 邮箱：</string>
+    <string name="register_text7">\u00A0 电话：</string>
+    <string name="register_text8">登陆账号</string>
+    <string name="register_text9">登陆</string>
+    <string name="register_text10">\u00A0 电话/邮箱：</string>
+    <string name="inform_text1">编辑个人信息</string>
+    <string name="inform_text2">检测指标管理</string>
+    <string name="title">EmoGuard</string>
+</resources>

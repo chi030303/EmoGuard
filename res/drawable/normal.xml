@@ -1,0 +1,24 @@
+<!-- res/drawable/user_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer stroke -->
+    <item>
+        <shape>
+            <stroke
+                android:width="2dp" />
+            <corners
+                android:radius="16dp" />
+        </shape>
+    </item>
+
+    <!-- Inner background -->
+    <item
+        android:left="2dp"
+        android:right="2dp">
+        <shape>
+            <solid android:color="@color/normal" />
+            <corners
+                android:radius="14dp" />
+        </shape>
+    </item>
+
+</layer-list>
